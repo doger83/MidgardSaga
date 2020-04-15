@@ -2,11 +2,11 @@
 - Niflheim -
 
 ## Beteiligte (alphabetisch): 
-Alexandra Bauer - Autorin 
-Julia Senf - Grafik/Design 
-Christian Strauss - Sound-FX
-Dominic Gerweck - Entwicklung/Code 
-Thomas Fischer - Grafik/Design/Entwicklung
+* Alexandra Bauer - Autorin 
+* Julia Senf - Grafik/Design 
+* Christian Strauss - Sound-FX
+* Dominic Gerweck - Entwicklung/Code 
+* Thomas Fischer - Grafik/Design/Entwicklung
 
 ## Ziel: 
 Entwicklung eines 3D RPG für mobile Endgeräte. 
