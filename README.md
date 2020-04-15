@@ -36,7 +36,7 @@
 ## Character/Player:
 
 * Basis fuer das Design
-<p style="align:left"><img src="/source/images/character_draft.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="150px" title="basicCharacterDesign" alt="basicCharacterImage" >
+<p style="align:left"><img src="/source/images/character_draft.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
 </p>
 
 ## Inventar:
