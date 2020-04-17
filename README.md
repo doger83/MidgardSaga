@@ -54,9 +54,13 @@ Thea glaubt ein normaler Teenager zu sein. Doch die Begegnung mit der nordischen
 - Odin (.....)
 <p style="align:left"><img src="/source/images/die-midgard-saga-odin-mit-rahmen-umhaengetasche.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
 </p>
-       - Juli (Nebencharakter)
-       - Thor (Begleiter)
-       - rotbärtiger Mann und Sonstige
+
+- Juli (Nebencharakter)
+
+- Thor (Begleiter)
+
+- rotbärtiger Mann und Sonstige
+
 <p style="align:left">
         <img src="/source/images/die-midgard-saga-buch-5-ratatoeskr-weiss-maenner-premium-t-shirt.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
    
