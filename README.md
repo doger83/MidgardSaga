@@ -37,8 +37,11 @@ Thea glaubt ein normaler Teenager zu sein. Doch die Begegnung mit der nordischen
 ## Character/Player:
 - Thea (Hauptfigur)
 <p style="align:left"><img src="/source/images/Thea-1.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
-        <img src="/source/images/Thea-2.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+       
 </p>
+<p style="align:left">
+ <img src="/source/images/Thea-2.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+ </p>
 - Juli (Nebencharakter)
 
 - Wal-Freya (Begleiterin)
