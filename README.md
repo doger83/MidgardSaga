@@ -19,45 +19,60 @@
 - Alle Projektbeteiligte sind am Ende **Quellensituationaere!**
 
 ## Basis:
+<p style="align:left"><img src="/source/images/515y-Z5Ue3L.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+</p>
 
-"Die Midgard-Saga -Niflheim-" von Alexandra Bauer
+**"Die Midgard-Saga -Niflheim-" von Alexandra Bauer**
 
 Als Thea eines Tages von einem rotbärtigen Mann verfolgt wird, ahnt sie nicht, dass dies der Beginn von etwas Großem ist. Nach Asgard entführt, dem Wohnsitz der nordischen Götter, bekommt sie von Odin einen Auftrag: Sie soll Kyndill finden, ein Zauberschwert, das in den Händen des Feuergottes Loki die Macht besitzt, alle Götter zu töten. Zusammen mit ihrer Freundin Juli und begleitet von Thor und Wal-Freya, begibt sich Thea nach Niflheim, einer eisigen Welt im tiefen Norden. Hier ging das Schwert einst verloren. Aber auch Loki sucht nach der Waffe. Wie eine düstere Bedrohung lauert er hinter jeder ihrer Handlungen...
 
 Thea glaubt ein normaler Teenager zu sein. Doch die Begegnung mit der nordischen Göttin Wal-Freya stellt ihr Leben auf den Kopf. Sie offenbart Thea eine Vergangenheit, die sie schon vor Jahrhunderten unwiderruflich mit dem Schicksal der Götter verknüpfte. Plötzlich ist es an Thea, eine alte Gefahr von den nordischen Göttern abzuwenden. Ihre beste Freundin Juli begleitet sie. Doch die beiden ahnen nicht, dass sich der Feuergott Loki bereits an ihre Fersen geheftet hat. Wie eine dunkle Bedrohung lauert er hinter jeder ihrer Handlungen 
 
-
-## Projekt Timeline:
-
-<p style="align:left"><img src="/source/images/TimeLine_draft.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
-</p>
-Entwurf einer moeglichen Timeline.
-
-        Anmerkung: "min" kann als "Monat" gelesen werden.
-
-- ...
-- ...
-- ...
-- ...
-- ...
-
 ## Design Gameplay:
-
-- ...
-- ...
-- ...
-- ...
-- ...
-
-## Character/Player:
 
 - Basis fuer das Design
 <p style="align:left"><img src="/source/images/character_draft.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
 </p>
 
-## Inventar:
+## Character/Player:
+- Thea (Hauptfigur)
+<p style="align:left"><img src="/source/images/Thea-1.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+        <img src="/source/images/Thea-2.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+</p>
+- Juli (Nebencharakter)
 
-- ...
+- Wal-Freya (Begleiterin)
+<p style="align:left"><img src="/source/images/19e2ec3b2ce11339e7f7f161bc96dc1d.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+</p>
+- Thor (Begleiter)
+
+- Loki(Gegnerischer CHarakter - Endboss)
+<p style="align:left"><img src="/source/images/a09775a75e67fd38a5ad073f7fd99f1e.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+</p>
+
+- Odin (.....)
+<p style="align:left"><img src="/source/images/die-midgard-saga-odin-mit-rahmen-umhaengetasche.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+</p>
+- rotbärtiger Mann und Sonstige
+<p style="align:left">
+        <img src="/source/images/die-midgard-saga-buch-5-ratatoeskr-weiss-maenner-premium-t-shirt.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+        
+        <img src="/source/images/946eed641c7886753bfcf53c641736a1.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+        
+         <img src="/source/images/die-midgard-saga-federkleid-rahmen-weiss-frauen-premium-t-shirt.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+         
+         <img src="/source/images/die-midgard-saga-joetunheim-fenrir-weiss-maenner-premium-t-shirt.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+         
+         <img src="/source/images/die-midgard-saga-federkleid-rahmen-weiss-frauen-premium-t-shirt.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+         
+         <img src="/source/images/die-midgard-saga-wal-freyas-trunk1-rahmen-blau-maenner-premium-hoodie.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="250px" title="basicCharacterDesign" alt="basicCharacterImage" >
+         
+         
+</p>
+
+## Inventar und Gegenstaende:
+
+- Kyndill (Zauberschwert)
 - ...
 - ...
 - ...
@@ -81,8 +96,8 @@ Entwurf einer moeglichen Timeline.
 
 ## Goals:
 
-- ...
-- ...
+- Finde das Zauberschwert Kyndill !
+- Besiege Loki !
 - ...
 - ...
 - ...
