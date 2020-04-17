@@ -12,7 +12,7 @@
 
 ## Ziel:
 
-- Entwicklung eines 3D RPG für mobile Endgeräte.
+- Entwicklung eines 2D RPG für mobile Endgeräte.
 - Viel Spass haben.
 - ...
 - ...
