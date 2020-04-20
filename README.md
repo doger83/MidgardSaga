@@ -1,4 +1,5 @@
-# Die Midgard-Saga -Niflheim-
+# Game Design Document
+## Die Midgard-Saga -Niflheim-
 
 ### Status 17.04.2020
 
