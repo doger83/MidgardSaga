@@ -20,7 +20,7 @@
 - Alle Projektbeteiligte sind am Ende **Quellensituationaere!**
 
 ## Basis:
-<p style="align:left"><img src="./source/images/515y-Z5Ue3L.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="basicCharacterDesign" alt="basicCharacterImage" >
+<p style="align:left"><img src="../source/images/515y-Z5Ue3L.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="basicCharacterDesign" alt="basicCharacterImage" >
 </p>
 
 **"Die Midgard-Saga -Niflheim-" von Alexandra Bauer**
