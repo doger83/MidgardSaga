@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:dev/Midgard-Saga-Niflheim/Assets/Materials.meta
 guid: c1d75aca64053534fa3d2ef63fb7a3d9
+========
+guid: cae2866abb82dd64ca968d5834a9c80b
+>>>>>>>> ca0a341f16eaf8c25b6b49377dc142a4e68e3b49:dev/Midgard-Saga-Niflheim/Assets/RPG icons.meta
+=======
+guid: 8f51380daaf940d4c896e238f0ea3798
+>>>>>>> ca0a341f16eaf8c25b6b49377dc142a4e68e3b49
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
