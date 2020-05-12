@@ -28,6 +28,6 @@ public class PlayerMovement : MonoBehaviour
 
     private void MoveCharacter()
     {
-        rgb2d.MovePosition(transform.position + change * speed * Time.deltaTime);
+        rgb2d.MovePosition(transform.position + change * speed * Time.fixedDeltaTime);
     }
 }

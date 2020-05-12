@@ -45,13 +45,13 @@ public class PlayerController : MonoBehaviour
         }
 
         // get input for Movement-Animation
-        //anim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
-        //anim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
+        anim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
+        anim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
 
         //// Animate the Player if he is Moving
         //anim.SetBool("PlayerMoving", playerMoving);
-        //anim.SetFloat("LastMoveX", lastMove.x);
-        //anim.SetFloat("LastMoveY", lastMove.y);
+        anim.SetFloat("LastMoveX", lastMove.x);
+        anim.SetFloat("LastMoveY", lastMove.y);
 
         //Debug.Log(Input.GetAxisRaw("Vertical"));
     }
