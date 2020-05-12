@@ -4003,7 +4003,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   followTarget: {fileID: 369300778}
-  moveSpeed: 5
+  moveSpeed: 150
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0

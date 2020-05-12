@@ -10,15 +10,14 @@ public class PlayerController : MonoBehaviour
     private bool playerMoving;
     private Vector2 lastMove;
 
-
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         // at the beginning the Player is NOT moving!
         playerMoving = false;
@@ -28,7 +27,7 @@ public class PlayerController : MonoBehaviour
         {
             // Move the PlayerSprite
             transform.Translate(new Vector3(Input.GetAxisRaw("Horizontal") * moveSpeed * Time.deltaTime, 0f, 0f));
-            
+
             // Animate the Player Sprite while moving
             playerMoving = true;
             lastMove = new Vector2(Input.GetAxisRaw("Horizontal"), 0f);
@@ -53,5 +52,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("PlayerMoving", playerMoving);
         anim.SetFloat("LastMoveX", lastMove.x);
         anim.SetFloat("LastMoveY", lastMove.y);
+
+        Debug.Log(Input.GetAxisRaw("Vertical"));
     }
 }
