@@ -20,13 +20,6 @@
 - Alle Projektbeteiligte sind am Ende **Quellensituationaere!**
 
 ## Basis:
-![alt text](source/images/515y-Z5Ue3L.jpg "Logo Title Text 1")
-
-![alt text][logo]
-
-[logo]: source/images/515y-Z5Ue3L.jpg "Logo Title Text 2"
-
-
 <p style="align:center"><img src="source/images/515y-Z5Ue3L.jpg" style="border-radius:15px; box-shadow: 10px 10px 8px #313740;" width="auto" title="basicCharacterDesign" alt="basicCharacterImage" >
 </p>
 
