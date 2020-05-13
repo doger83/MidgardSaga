@@ -20,10 +20,8 @@
 - Alle Projektbeteiligte sind am Ende **Quellensituationaere!**
 
 ## Basis:
-Inline-style: 
 ![alt text](source/images/515y-Z5Ue3L.jpg "Logo Title Text 1")
 
-Reference-style: 
 ![alt text][logo]
 
 [logo]: source/images/515y-Z5Ue3L.jpg "Logo Title Text 2"
