@@ -385,6 +385,7 @@ namespace UnityEditor
 			}
 		}
 
+		[Obsolete]
 		private static void SetSceneCell(GridLayout grid, Transform parent, Vector3Int position, GameObject go, Vector3 offset, Vector3 scale, Quaternion orientation)
 		{
 			if (parent == null || go == null)
