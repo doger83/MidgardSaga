@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 101992646ad009b43ae9172a344330de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8967329562910986435
+    second: mage run right down spritesheet_0
+  - first:
+      213: 1220200273887314121
+    second: mage run right down spritesheet_1
+  - first:
+      213: 7245724580449058966
+    second: mage run right down spritesheet_2
+  - first:
+      213: 8418150076941152754
+    second: mage run right down spritesheet_3
+  - first:
+      213: 8916345653659950166
+    second: mage run right down spritesheet_4
+  - first:
+      213: 3146609800094127224
+    second: mage run right down spritesheet_5
+  - first:
+      213: 5858352414451915501
+    second: mage run right down spritesheet_6
+  - first:
+      213: 5894318693023808437
+    second: mage run right down spritesheet_7
+  - first:
+      213: 6762051697785237102
+    second: mage run right down spritesheet_8
+  - first:
+      213: 3132013885719874702
+    second: mage run right down spritesheet_9
+  - first:
+      213: -8885857894658466602
+    second: mage run right down spritesheet_10
+  - first:
+      213: 6713329851567138822
+    second: mage run right down spritesheet_11
+  - first:
+      213: -6686440483838846645
+    second: mage run right down spritesheet_12
+  - first:
+      213: 5414472557869544928
+    second: mage run right down spritesheet_13
+  - first:
+      213: -2271974231203934774
+    second: mage run right down spritesheet_14
+  - first:
+      213: -294990675072146087
+    second: mage run right down spritesheet_15
+  - first:
+      213: 2775439434775361989
+    second: mage run right down spritesheet_16
+  - first:
+      213: -9186211875638767322
+    second: mage run right down spritesheet_17
+  - first:
+      213: 7998528828776544374
+    second: mage run right down spritesheet_18
+  - first:
+      213: -1855071107060611193
+    second: mage run right down spritesheet_19
+  - first:
+      213: -9076064007776742773
+    second: mage run right down spritesheet_20
+  - first:
+      213: -3804894514357036590
+    second: mage run right down spritesheet_21
+  - first:
+      213: -2554699504357994761
+    second: mage run right down spritesheet_22
+  - first:
+      213: -769591886036153122
+    second: mage run right down spritesheet_23
+  - first:
+      213: -119156042499111974
+    second: mage run right down spritesheet_0
+  - first:
+      213: 1355789083636280158
+    second: mage run right down spritesheet_1
+  - first:
+      213: 1104636169445145216
+    second: mage run right down spritesheet_2
+  - first:
+      213: 2294001463090806039
+    second: mage run right down spritesheet_3
+  - first:
+      213: -1389057648943916790
+    second: mage run right down spritesheet_4
+  - first:
+      213: -5918899661625051964
+    second: mage run right down spritesheet_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage run right down spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3cffde53ca85ef0800000000000000
+      internalID: -119156042499111974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage run right down spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 149
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b2e700dfab0d210800000000000000
+      internalID: 1355789083636280158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage run right down spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 141
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a73d55eb4745f00800000000000000
+      internalID: 1104636169445145216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage run right down spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 142
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71df0c13d2ee5df10800000000000000
+      internalID: 2294001463090806039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage run right down spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 140
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0998268d6319bce0800000000000000
+      internalID: -1389057648943916790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage run right down spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 136
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4b8af0e18dbdda0800000000000000
+      internalID: -5918899661625051964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
