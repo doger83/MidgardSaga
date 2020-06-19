@@ -11,13 +11,33 @@ public class PlayerController : MonoBehaviour
     private Vector2 lastMove;
 
     // Start is called before the first frame update
-    private void Start()
+    private void Awake()
     {
         anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     private void Update()
+    {
+        HandleInput();
+        HandleAnimation();
+
+        //Debug.Log(Input.GetAxisRaw("Vertical"));
+    }
+
+    private void HandleAnimation()
+    {
+        // get input for Movement-Animation
+        anim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
+        anim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
+
+        //// Animate the Player if he is Moving
+        //anim.SetBool("PlayerMoving", playerMoving);
+        anim.SetFloat("LastMoveX", lastMove.x);
+        anim.SetFloat("LastMoveY", lastMove.y);
+    }
+
+    private void HandleInput()
     {
         // at the beginning the Player is NOT moving!
         playerMoving = false;
@@ -43,16 +63,5 @@ public class PlayerController : MonoBehaviour
             playerMoving = true;
             lastMove = new Vector2(0f, Input.GetAxisRaw("Vertical"));
         }
-
-        // get input for Movement-Animation
-        anim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
-        anim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
-
-        //// Animate the Player if he is Moving
-        //anim.SetBool("PlayerMoving", playerMoving);
-        anim.SetFloat("LastMoveX", lastMove.x);
-        anim.SetFloat("LastMoveY", lastMove.y);
-
-        //Debug.Log(Input.GetAxisRaw("Vertical"));
     }
 }

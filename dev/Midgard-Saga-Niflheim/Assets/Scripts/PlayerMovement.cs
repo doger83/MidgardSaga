@@ -10,15 +10,15 @@ public class PlayerMovement : MonoBehaviour
     public Vector2 movement;
 
     // Start is called before the first frame update
-    private void Start()
+    private void Awake()
     {
-        rb = this.GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     private void Update()
     {
-        movement = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        HandleInput();
     }
 
     private void FixedUpdate()
@@ -26,8 +26,13 @@ public class PlayerMovement : MonoBehaviour
         MoveCharacter(movement);
     }
 
+    private void HandleInput()
+    {
+        movement = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
+    }
+
     private void MoveCharacter(Vector2 direrction)
     {
-        this.rb.MovePosition((Vector2)transform.position + (direrction * speed * Time.deltaTime));
+        rb.MovePosition((Vector2)transform.position + (direrction * speed * Time.deltaTime));
     }
 }
